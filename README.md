@@ -251,4 +251,4 @@ npm run preview
 
 ## 13. License
 
-This project is submitted for Smart India Hackathon 2026. License to be finalised by the team — MIT is suggested for an open disaster-management tool that other districts/states could reuse.
+This project is submitted for Smart India Hackathon 2026. License to be finalised by the team — MIT is suggested for an open disaster-management tool that other districts/states could reuse.Thats it.
